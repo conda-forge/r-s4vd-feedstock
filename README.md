@@ -1,11 +1,11 @@
-About r-s4vd
-============
+About r-s4vd-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-s4vd-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=s4vd
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-s4vd-feedstock/blob/main/LICENSE.txt)
 
 Summary: The main function s4vd() performs a biclustering via sparse singular value decomposition with a nested stability selection. The results is an biclust object and thus all methods of the biclust package can be applied.
 
